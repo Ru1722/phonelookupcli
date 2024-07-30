@@ -11,7 +11,7 @@ html.parser requests
 # PROGRAM USAGE
 When the program prompts for your phone number, type in the phone number as one string. <br>
 EXAMPLE: 18005551234 <br>
-You can replace the 1 with whatever country code is used for the call.
+Make sure you replace the 1 with whatever country code is used for the call.
 
 # NOTES ON PROGRAM
 The data is taken from spamcalls.net
